@@ -1,4 +1,4 @@
 # demo
 This is my first repo
 <br>
-Author : Tanisha Lamba
+Author : Tanisha Lamba(CSE)
